@@ -4,9 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 # layout: home
 ---
-# Unconscious Bias
 
-## Competitions
+# Competitions
 
 | Date   | Competition                   | Organization                                                                       | Rank    |
 | :----- | :----------------------       | :------------------------------------                                              | ------: |
