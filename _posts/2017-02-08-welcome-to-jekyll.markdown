@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title:  "Welcome to Unconscious Bias!"
 date:   2017-02-08 17:08:50 +0100
 categories: github pages init
